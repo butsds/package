@@ -1,0 +1,14 @@
+{
+    "name": "butsds/package",
+    "description": "Api Sdk Core",
+    "type": "library",
+    "license": "GPL-3.0",
+    "homepage": "https://github.com/butsds/package",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Butskikh Dmitry",
+            "email": "butsds@yandex.ru"
+        }
+    ]
+}
