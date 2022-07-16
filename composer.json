@@ -4,16 +4,11 @@
     "type": "library",
     "license": "GPL-3.0",
     "homepage": "https://github.com/butsds/package",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Butskikh Dmitry",
             "email": "butsds@yandex.ru"
         }
-    ],
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0-dev"
-        }
-    }
+    ]
 }
